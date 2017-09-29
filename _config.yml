@@ -3,3 +3,4 @@ email: pierre-henri.symoneaux@nokia.com
 description: > # this means to ignore newlines until "baseurl:"
   Le Garage will organize an Hacktoberfest summit on the 19th of October 2017
 theme: jekyll-theme-cayman
+show_github_link: false
