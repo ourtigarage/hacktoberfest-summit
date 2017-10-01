@@ -1,3 +1,5 @@
-## WOW ! Such empty !
-
-![nothing](http://lapintade.weebly.com/uploads/8/6/0/1/8601844/5255678_orig.jpg)
+•         17h – 17h15: Welcome 
+•         17h15 - 18h: Introduction and presentation of projects that need contributors
+•         18h - 20h: Hacking - contribution to Open source
+•         20h - 20h30 – Time for people who want to demo their contribution
+•         20h30 - 21h - Closing 
