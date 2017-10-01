@@ -5,7 +5,7 @@ Hacktoberfest's goal is to promote and support open-source.
 
 ![Hacktoberfest logo](https://hacktoberfest.digitalocean.com/assets/hacktoberfest-2017-social-card-894a0558dba205f7142f3130c06823d72427a9d751d0f8c7db8a0079397178aa.jpg)
 
-Whatever you are a developer or not, a GitHub guru or completely new to it, if you want to contribute to opensource, or learn how to do it, **register now** and join us.
+Whether you are a developer or not, a GitHub guru or completely new to it, if you want to contribute to opensource, or learn how to do it, **register now** and join us.
 For those who owns projects, this would be a great opportunity to find some contributors to help you.
 
 # What will we do ?
