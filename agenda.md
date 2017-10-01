@@ -1,3 +1,4 @@
+# Agenda
 * **17h – 17h15**: Welcome
 * **17h15 - 18h**: Introduction and presentation of projects that need contributors
 * **18h - 20h**: Hacking - contribution to Open source
