@@ -16,8 +16,8 @@ For those who own projects, this would be a great opportunity to find some contr
   Thursday 29th of October from 5:00 PM to 9:00 PM
 ### Where
 ```  
-  Le Garage
-  Nokia - 22300 LANNION
+  Le Garage Nokia
+  22300 LANNION
   FRANCE
 ```
 
