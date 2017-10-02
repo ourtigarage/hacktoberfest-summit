@@ -9,7 +9,7 @@ Whether you are a developer or not, a GitHub guru or completely new to it, if yo
 For those who own projects, this would be a great opportunity to find some contributors to help you.
 
 # What will we do ?
-*TBD...*
+Hacktoberfest—brought to you by DigitalOcean and GitHub—is a month-long celebration of open source software. Maintainers are invited to guide would-be contributors towards issues that will help move the project forward, and contributors get the opportunity to give back to both projects they like, and ones they’ve just discovered. Everyone can contribute from documentation update to bug fixes
 
 ## Information
 ### When
@@ -22,7 +22,7 @@ For those who own projects, this would be a great opportunity to find some contr
 ```
 
 ### Register now
-Shoot us an e-mail at <**email adress here**>
+sign-up to participate  <**links here**>
   
 Check the [agenda](./agenda)
 
