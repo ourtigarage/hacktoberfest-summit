@@ -9,7 +9,7 @@ Whether you are a developer or not, a GitHub guru or completely new to it, if yo
 For those who own projects, this would be a great opportunity to find some contributors to help you.
 
 # What will we do ?
-*TBD...*
+*...TBD...*
 
 ## Information
 ### When
