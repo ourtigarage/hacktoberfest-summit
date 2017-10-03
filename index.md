@@ -13,7 +13,7 @@ Hacktoberfest—brought to you by DigitalOcean and GitHub—is a month-long cele
 
 ## Information
 ### When
-  Thursday 29th of October from 5:00 PM to 9:00 PM
+  Thursday 19th of October from 5:00 PM to 9:00 PM
 ### Where
 ```  
   Le Garage Nokia
