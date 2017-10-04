@@ -22,8 +22,16 @@ Hacktoberfest—brought to you by DigitalOcean and GitHub—is a month-long cele
 ```
 [Google map](https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2630.2214908703118!2d-3.4617334847955243!3d48.75856641568496!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4d7fd7d8295d212b!2sLe+Garage+Nokia!5e0!3m2!1sfr!2sfr!4v1506968868338)
 
+### Agenda
+Check the [agenda](./agenda)
+
 ### Register now
 [Sign-up to participate](https://www.eventbrite.fr/e/billets-hacktoberfest-2017-meetup-le-garage-nokia-38458269720?utm_campaign=new_event_email&utm_medium=email&utm_source=eb_email&utm_term=viewmyevent_button)
-  
-Check the [agenda](./agenda)
+
+Don't forget to also Register to [Github Hacktoberfest event](https://hacktoberfest.digitalocean.com/sign_up/register)
+
+### Already Registered ?
+Make your first pull request by adding your name to the [list of participants](./participants)
+
+Start browsing all [participating Hacktoberfest projects](https://github.com/search?q=label:hacktoberfest+state:open+type:issue) on GitHub
 
