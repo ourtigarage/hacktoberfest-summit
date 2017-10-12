@@ -35,3 +35,5 @@ Make your first pull request by adding your name to the [list of participants](.
 
 Start browsing all [participating Hacktoberfest projects](https://github.com/search?q=label:hacktoberfest+state:open+type:issue) on GitHub
 
+Check your progress on [Hacktoberfest official site](https://hacktoberfest.digitalocean.com/stats/)
+
