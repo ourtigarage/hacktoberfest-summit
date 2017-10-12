@@ -6,7 +6,7 @@
   This is for test purpose, only one pull request by participant will be accepted :)
 ```
 
-*  
+*  Cassandra Lajeunie
 *
 *
 *
