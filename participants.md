@@ -7,7 +7,4 @@
 ```
 
 *  Xavier Le Rouzic (MisterX22)
-*
-*
-*
-*
+*  Blimy
