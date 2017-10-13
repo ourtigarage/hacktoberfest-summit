@@ -6,8 +6,5 @@
   This is for test purpose, only one pull request by participant will be accepted :)
 ```
 
+*  Xavier Le Rouzic (MisterX22)
 *  Blimy
-*
-*
-*
-*
