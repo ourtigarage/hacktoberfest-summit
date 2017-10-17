@@ -13,3 +13,4 @@
 * @MisterX22 - Xavier Le Rouzic (MisterX22)
 * @Blimy
 * @phsym - Pierre-Henri Symoneaux
+* @nerfox - Erwan Duval
