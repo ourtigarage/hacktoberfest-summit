@@ -11,10 +11,12 @@
 ```
 
 * @MisterX22 - Xavier Le Rouzic (MisterX22)
-* @Blimy
+* @Blimy - Cassandra Lajeunie
 * @phsym - Pierre-Henri Symoneaux
 * @nerfox22 - Erwan Duval
-* @Kirack2040
+* @Kirack2040 - Gabriel Bahezre
 * @WonderWolski
 * @Lerhun22 - Didier Flury
 * @Revhe - Alexandre Richard
+* @sliard - Samuel Liard
+
