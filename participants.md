@@ -13,12 +13,18 @@
 * @MisterX22 - Xavier Le Rouzic (MisterX22)
 * @Blimy - Cassandra Lajeunie
 * @phsym - Pierre-Henri Symoneaux
-* @nerfox22 - Erwan Duval
+* @nerfox22 - Erwan Duval, le roi de la pédale
 * @Kirack2040 - Gabriel Bahezre
-* @WonderWolski
+* @WonderWolski - Celine
 * @Lerhun22 - Didier Flury
 * @Revhe - Alexandre Richard
 * @sliard - Samuel Liard
+* @Voriaz - Le Floch Antoine
 * @Awax56 - Julien Le Sauce
+* @Vcube22 - Vincent Royer
+* @breizhtreb - Jean-Pierre Pinal
+* @vdieulesaint - Vincent Dieulesaint
+* Alain Le Bouffan - 
+* @tioneb1 - Benoit Morin
+* @fsalaun - Florian Salaün
 * @matthieusalvat - Matthieu Salvat
-
