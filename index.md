@@ -37,3 +37,13 @@ Start browsing all [participating Hacktoberfest projects](https://github.com/sea
 
 Check your progress on [Hacktoberfest official site](https://hacktoberfest.digitalocean.com/stats/)
 
+## Projects
+
+You don't know where to start... here are some projects on which you can contribute :
+
+* [Fake Nokia Anthological Snake](https://github.com/ourtigarage/web-snake)
+* [Hacktoberfest Leaderboard](https://github.com/ourtigarage/hacktoberfest-leaderboard)
+
+* [Orange Open Source / Oorobot](https://github.com/Orange-OpenSource/oorobot)
+* [Orange Open Source / EtherPlant](https://github.com/Orange-OpenSource/EtherPlant)
+* [Orange Open Source / EtheRemark](https://github.com/Orange-OpenSource/EtheRemark)
