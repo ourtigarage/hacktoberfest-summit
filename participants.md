@@ -19,3 +19,4 @@
 * @Lerhun22 - Didier Flury
 * @Revhe
 * @sliard - Samuel Liard
+* @Voriaz - Le Floch Antoine
