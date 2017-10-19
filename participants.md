@@ -11,11 +11,11 @@
 ```
 
 * @MisterX22 - Xavier Le Rouzic (MisterX22)
-* @Blimy - Cassandra Lajeunie
+* @Blimy - :rainbow: Cassandra Lajeunie
 * @phsym - Pierre-Henri Symoneaux
 * @nerfox22 - Erwan Duval, le roi de la pédale
 * @Kirack2040 - Gabriel Bahezre
-* @WonderWolski - Celine
+* @WonderWolski - Celine - Shoot for the :rocket: :full_moon:
 * @Lerhun22 - Didier Flury
 * @Revhe - Alexandre Richard
 * @sliard - Samuel Liard
@@ -24,7 +24,7 @@
 * @Vcube22 - Vincent Royer
 * @breizhtreb - Jean-Pierre Pinal
 * @vdieulesaint - Vincent Dieulesaint
-* Alain Le Bouffan - 
+* Alain Le Bouffant  
 * @tioneb1 - Benoit Morin
 * @fsalaun - Florian Salaün
 * @matthieusalvat - Matthieu Salvat
