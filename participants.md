@@ -19,5 +19,5 @@
 * @Lerhun22 - Didier Flury
 * @Revhe - Alexandre Richard
 * @sliard - Samuel Liard
+* @Voriaz - Le Floch Antoine
 * @Awax56 - Julien Le Sauce
-
