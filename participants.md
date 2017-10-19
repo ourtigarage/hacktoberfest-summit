@@ -21,3 +21,4 @@
 * @sliard - Samuel Liard
 * @Voriaz - Le Floch Antoine
 * @Awax56 - Julien Le Sauce
+* @Vcube22 - Vincent Royer
