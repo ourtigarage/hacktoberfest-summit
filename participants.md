@@ -15,7 +15,7 @@
 * @phsym - Pierre-Henri Symoneaux
 * @nerfox22 - Erwan Duval, le roi de la pédale
 * @Kirack2040 - Gabriel Bahezre
-* @WonderWolski
+* @WonderWolski - Celine
 * @Lerhun22 - Didier Flury
 * @Revhe - Alexandre Richard
 * @sliard - Samuel Liard
