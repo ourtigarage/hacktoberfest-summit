@@ -28,3 +28,4 @@
 * @tioneb1 - Benoit Morin
 * @fsalaun - Florian Salaün
 * @matthieusalvat - Matthieu Salvat
+* @chardon1 - Herve Chardon
