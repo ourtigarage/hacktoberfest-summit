@@ -13,7 +13,7 @@
 * @MisterX22 - Xavier Le Rouzic (MisterX22)
 * @Blimy - Cassandra Lajeunie
 * @phsym - Pierre-Henri Symoneaux
-* @nerfox22 - Erwan Duval
+* @nerfox22 - Erwan Duval, le roi de la pédale
 * @Kirack2040 - Gabriel Bahezre
 * @WonderWolski
 * @Lerhun22 - Didier Flury
