@@ -16,7 +16,7 @@
 * @nerfox22 - Erwan Duval, le roi de la pédale
 * @Kirack2040 - Gabriel Bahezre
 * @WonderWolski - Celine - Shoot for the :rocket: :full_moon:
-* @Lerhun22 - Didier Flury
+* @lerhun22 - Didier Flury
 * @Revhe - Alexandre Richard
 * @sliard - Samuel Liard
 * @Voriaz - Le Floch Antoine
