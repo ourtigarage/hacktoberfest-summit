@@ -1,7 +1,7 @@
-Le Garage will organize an [Hacktoberfest](https://hacktoberfest.digitalocean.com/) summit on the **19th of October 2017**.
+Le Garage will organize an [Hackt'au beurre fest](https://hacktoberfest.digitalocean.com/) summit on the **19th of October 2017**.
 
-# What's the Hacktoberfest
-Hacktoberfest's goal is to promote and support open-source by encouraging new contributors and new contributions in GitHub.
+# What's the Hackt'au beurre fest?
+Hackt'au beurre fest's goal is to promote and support open-source by encouraging new contributors and new contributions in GitHub.
 
 ![Hacktoberfest logo](https://hacktoberfest.digitalocean.com/assets/hacktoberfest-2017-social-card-894a0558dba205f7142f3130c06823d72427a9d751d0f8c7db8a0079397178aa.jpg)
 
@@ -9,11 +9,11 @@ Whether you are a developer or not, a GitHub guru or completely new to it, if yo
 For those who own projects, this would be a great opportunity to find some contributors to help you.
 
 # What will we do ?
-Hacktoberfest—brought to you by DigitalOcean and GitHub—is a month-long celebration of open source software. Maintainers are invited to guide would-be contributors towards issues that will help move the project forward, and contributors get the opportunity to give back to both projects they like, and ones they’ve just discovered. Everyone can contribute from documentation update to bug fixes
+Hackt'au beurre fest—brought to you by DigitalOcean and GitHub—is a month-long celebration of open source software. Maintainers are invited to guide would-be contributors towards issues that will help move the project forward, and contributors get the opportunity to give back to both projects they like, and ones they’ve just discovered. Everyone can contribute from documentation update to bug fixes
 
 ## Information
 ### When
-  Thursday 19th of October from 5:00 PM to 9:00 PM
+  Thursday 19th of Oct'au beurre from 5:00 PM to 9:00 PM
 ### Where
 ```  
   Le Garage Nokia
@@ -28,7 +28,7 @@ Check the [agenda](./agenda)
 ### Register now
 [Sign-up to participate](https://www.eventbrite.fr/e/billets-hacktoberfest-2017-meetup-le-garage-nokia-38458269720?utm_campaign=new_event_email&utm_medium=email&utm_source=eb_email&utm_term=viewmyevent_button)
 
-Don't forget to also Register to [Github Hacktoberfest event](https://hacktoberfest.digitalocean.com/sign_up/register)
+Don't forget to also Register to [Github Hackt'au beurre fest event](https://hacktoberfest.digitalocean.com/sign_up/register)
 
 ### Already Registered ?
 Make your first pull request by adding your name to the [list of participants](./participants)
