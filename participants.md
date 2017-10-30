@@ -30,3 +30,4 @@
 * @matthieusalvat - Matthieu Salvat
 * @chardon1 - Herve Chardon
 * @marcoaimo - :beers: :space_invader: :guitar:
+* @sanushen - Sanushen Govender
