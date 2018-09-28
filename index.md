@@ -1,9 +1,9 @@
-Le Garage will organize an [Hacktoberfest](https://hacktoberfest.digitalocean.com/) summit on the **19th of October 2017**.
+Le Garage will organize an [Hacktoberfest](https://hacktoberfest.digitalocean.com/) summit on the **23rd of October 2018**.
 
 # What's the Hacktoberfest
 Hacktoberfest's goal is to promote and support open-source by encouraging new contributors and new contributions in GitHub.
 
-![Hacktoberfest logo](https://hacktoberfest.digitalocean.com/assets/hacktoberfest-2017-social-card-894a0558dba205f7142f3130c06823d72427a9d751d0f8c7db8a0079397178aa.jpg)
+![Hacktoberfest logo](https://hacktoberfest.digitalocean.com/assets/logo-hacktoberfest-658b5aa2bd34e782d29c40bf6afbdff00f20fe1328efa6da17743878ba8db66f.png)
 
 Whether you are a developer or not, a GitHub guru or completely new to it, if you want to contribute to opensource, or learn how to do it, **register now** and join us.
 For those who own projects, this would be a great opportunity to find some contributors to help you.
@@ -13,7 +13,7 @@ Hacktoberfest—brought to you by DigitalOcean and GitHub—is a month-long cele
 
 ## Information
 ### When
-  Thursday 19th of October from 5:00 PM to 9:00 PM
+  Tuesday 23rd of October from 5:00 PM to 9:00 PM
 ### Where
 ```  
   Le Garage Nokia
