@@ -23,7 +23,7 @@ Hacktoberfest—brought to you by DigitalOcean and GitHub—is a month-long cele
 [<img width="400px" src="ourtigarage.png">](https://www.google.fr/maps/place/Le+Garage+Nokia/@48.7583509,-3.4626582,17.08z/data=!4m5!3m4!1s0x0:0x4d7fd7d8295d212b!8m2!3d48.759098!4d-3.4606525?hl=fr)
 
 ### Agenda
-Check the [agenda](./agenda)
+Check the [agenda](./agenda.md)
 
 ### Register now
 [Sign-up to participate](https://www.eventbrite.fr/e/billets-hacktoberfest-2018-meetup-le-garage-nokia-50774292275)
