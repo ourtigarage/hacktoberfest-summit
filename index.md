@@ -26,7 +26,7 @@ Hacktoberfest—brought to you by DigitalOcean and GitHub—is a month-long cele
 Check the [agenda](./agenda)
 
 ### Register now
-[Sign-up to participate](https://www.eventbrite.fr/e/billets-hacktoberfest-2017-meetup-le-garage-nokia-38458269720?utm_campaign=new_event_email&utm_medium=email&utm_source=eb_email&utm_term=viewmyevent_button)
+[Sign-up to participate](https://www.eventbrite.fr/e/billets-hacktoberfest-2018-meetup-le-garage-nokia-50774292275)
 
 Don't forget to also Register to [Github Hacktoberfest event](https://hacktoberfest.digitalocean.com/sign_up/register)
 
