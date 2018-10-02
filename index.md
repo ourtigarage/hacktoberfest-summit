@@ -31,7 +31,7 @@ Check the [agenda](./agenda.md)
 Don't forget to also Register to [Github Hacktoberfest event](https://hacktoberfest.digitalocean.com/sign_up/register)
 
 ### Already Registered ?
-Make your first pull request by adding your name to the [list of participants](./participants)
+Make your first pull request by adding your name to the [list of participants](https://github.com/ourtigarage/hacktoberfest-summit/tree/master/participants)
 
 Start browsing all [participating Hacktoberfest projects](https://github.com/search?q=label:hacktoberfest+state:open+type:issue) on GitHub
 
