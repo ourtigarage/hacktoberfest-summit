@@ -1,5 +1,7 @@
 Le Garage will organize an [Hacktoberfest](https://hacktoberfest.digitalocean.com/) summit on the **23rd of October 2018**.
 
+<span style="color:red"> **DUE TO LOW REGISTRATION, THE EVENT HAS BEEN CANCELED :-(** </span>
+
 # What's the Hacktoberfest
 Hacktoberfest's goal is to promote and support open-source by encouraging new contributors and new contributions in GitHub.
 
